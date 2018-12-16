@@ -1,0 +1,1 @@
+The reason I chose the values for envelope within beep was because I wanted to keep it simple to test whether it works or not. That is all.
